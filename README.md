@@ -6,6 +6,7 @@ As we say at my [family's restaurant](https://www.superdawg.com), thanks for sto
 - Currently:
   - Data Scientist | [Demand Analytics](https://demandanalytics.io) 📊🎟
   - Author and maintainer | [sportyR](https://www.github.com/sportsdataverse/sportyR) and [sportypy](https://www.github.com/sportsdataverse/sportypy) 🏀⚾️🏈🏒⚽️🎾
+  - Member of the [sportsdataverse](https://www.github.com/sportsdataverse)
   
 - Formerly:
   - Data Science Intern &mdash; Data Quality | Major League Baseball
