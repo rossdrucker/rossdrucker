@@ -6,17 +6,15 @@ As we say at my [family's restaurant](https://www.superdawg.com), thanks for sto
 - Currently:
   - Data Scientist | [Demand Analytics](https://demandanalytics.io) 📊🎟
   - Author and maintainer | [sportyR](https://www.github.com/sportsdataverse/sportyR) and [sportypy](https://www.github.com/sportsdataverse/sportypy) 🏀⚾️🏈🏒⚽️🎾
-  - Working for my family's restaurant, [Superdawg Drive-In](https://www.superdawg.com) 🌭
   
 - Formerly:
   - Data Science Intern &mdash; Data Quality | Major League Baseball
   - Data Scientist/Product Developer | E15 Group
+  - Teaching Assistant and Course Developer | University of Illinois at Urbana-Champaign &mdash; Department of Statistics
 
-I'm a two-time graduate of the University of Illinois at Urbana-Champaign, and a life-long (and die-hard) fan of Illini Athletics.
+I'm a two-time graduate of the University of Illinois at Urbana-Champaign, and a life-long (and die-hard) fan of Illini Athletics. Feel free to reach out to me on [Twitter](https://www.twitter.com/rossdrucker9), [LinkedIn](https://www.linkedin.com/in/ross-drucker), [GitHub](https://www.github.com/rossdrucker), or if you're feeling generous, you can leave a [tip](https://ko-fi.com/rossdrucker).
  
 [![Ross' GitHub Stats](https://github-readme-stats.vercel.app/api?username=rossdrucker&show_icons=true)](https://github.com/rossdrucker)
-
-
 
 <!--
 **rossdrucker/rossdrucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
