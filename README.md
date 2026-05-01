@@ -4,11 +4,12 @@
 As we say at my [family's restaurant](https://www.superdawg.com), thanks for stoppin'! I'm a data scientist and developer based out of Chicago. A bit about my work history:
 
 - Currently:
-  - Data Scientist | [Demand Analytics](https://demandanalytics.io) 📊🎟
+  - Product Scientist | [Swish Analytics](https://www.swishanalytics.com/) 📊
   - Author and maintainer | [sportyR](https://www.github.com/sportsdataverse/sportyR) and [sportypy](https://www.github.com/sportsdataverse/sportypy) 🏀⚾️🏈🏒⚽️🎾
   - Member of the [sportsdataverse](https://www.github.com/sportsdataverse)
   
 - Formerly:
+  - Data Scientist | [Demand Analytics](https://demandanalytics.io) / [RightsHelper](https://www.rightshelper.com/) 📊🎟
   - Data Science Intern &mdash; Data Quality | Major League Baseball
   - Data Scientist/Product Developer | E15 Group
   - Teaching Assistant and Course Developer | University of Illinois at Urbana-Champaign &mdash; Department of Statistics
