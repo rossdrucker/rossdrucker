@@ -9,7 +9,7 @@ As we say at my [family's restaurant](https://www.superdawg.com), thanks for sto
   - Member of the [sportsdataverse](https://www.github.com/sportsdataverse)
   
 - Formerly:
-  - Data Scientist | [Demand Analytics](https://demandanalytics.io) / [RightsHelper](https://www.rightshelper.com/) 📊🎟
+  - Data Scientist | [Demand Analytics](https://demandanalytics.io) / [RightsHelper](https://www.rightshelper.com/) 🎟
   - Data Science Intern &mdash; Data Quality | Major League Baseball
   - Data Scientist/Product Developer | E15 Group
   - Teaching Assistant and Course Developer | University of Illinois at Urbana-Champaign &mdash; Department of Statistics
